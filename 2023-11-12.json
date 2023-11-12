@@ -1,0 +1,26 @@
+{
+  "name": "Ora Owen",
+  "age": 43,
+  "address": {
+    "street": "Burero Manor",
+    "city": "Muvluewa",
+    "state": "IL",
+    "zip": "13467"
+  },
+  "contact": {
+    "phone": "(315) 751-7546",
+    "servicePhone": "800974745"
+  },
+  "birthday": "1965-08-27T10:59:19.855Z",
+  "ip": "68.176.7.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Zo gela bumlet mak aj pe numetol zala duna ceso ukridvac emoro dinwuw da ler. Og siphikul lebdocogi of gehhezit havi emevavi zod uw lekipuj igipoduh lespovig. Uguaw ja bahopi digpo zactetep bojpi ca ebsu bajhag vori red maf. Ekrirpib kujmeodo bo hadwi razotedi ome uz ni kajho vu apeji zege mutze uwi buap rol uw. Kidaj takvij lin onlo gozhapfe og nol med dezpukev mujo umu wa ciwevpu picsu palfukwi purez hudva tolfo.",
+    "bio": "Ufo suwabu botzif oze tizaroug owewuj ovow dol pa uc huc sazhajca fatem kibivfor popa ag lonbiod gocgat. Cumelimum mewzeh azudiwo ehre kife gonfu fis jun eludaktob nezudu ose asseup temcez gocifi. Fizob eb mewi rudsog tovnodvaz voromkev tuzat bavbat sehdek odsaw awe gamo zewiju. Opuja fafjup kif moimuni za pek wedhorbug zorowado mu buzud tam ipusu atjisuse. Uv hammihol lifmabap pam risuga puroher seres fejmes lome or lu fub wajuz gagiv febmih gem."
+  },
+  "apiKey": "29735fcb38bbca99958a0ad766ddf305fea379c2613f22a870bdfb4d58ed39fa",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
