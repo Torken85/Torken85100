@@ -1,0 +1,26 @@
+{
+  "name": "Adrian Yates",
+  "age": 35,
+  "address": {
+    "street": "Irula Boulevard",
+    "city": "Azpuita",
+    "state": "AR",
+    "zip": "62045"
+  },
+  "contact": {
+    "phone": "(365) 382-5371",
+    "servicePhone": "800177556"
+  },
+  "birthday": "1964-05-18T16:38:58.890Z",
+  "ip": "213.95.16.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Sup fu fu cute faptoke gijsaz ja aju vesbueve naru zediam nagu wu sof. Dob uble sek kojmim sazih uz vu joaso lezob ikoubo mim iperumvo at. Muhficaha joksi pumzujar dob wizugocu vigah rehemo cik ez jucgibon umzi vaj otiwo etuaglu deducoho fifdoh lodukdug. Gu izgoca kec ki ga epu ibo pimiuda lad deti utupenku ijrakmu kevoofe bilansiv iwuila cibobke.",
+    "bio": "Wucesbi bis coh omekefi piawi tozi re se dulgob we awot vatlueme bimjik. Vibas bavtojif murepi megejam hamu judtubsid ul vujkopfe olibon mihikfin petnuh beer kic rublozuz cufek me safof. Aloneh mic ferfe uro redinoofe ter vih cadhul fewve gopih diva cokjo dacpinmo burah unti japmihec. Kuafoow mif nucot icejefci nekihole nopapwe bun anmef acguvi ohmu houf bo befuleki sa af tepok hiscom caznami. Di ka hac kiben fa heobeju fozzeh ke vamgar ahza ho jokposer oblithu cadzadte puki cupakwub."
+  },
+  "apiKey": "e9be81e11eab833b453f26fba194e069f65fa124f702b9e5840756c5085a5c51",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
