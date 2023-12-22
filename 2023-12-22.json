@@ -1,0 +1,26 @@
+{
+  "name": "Devin Estrada",
+  "age": 20,
+  "address": {
+    "street": "Finez Key",
+    "city": "Rilcubiwi",
+    "state": "SD",
+    "zip": "56131"
+  },
+  "contact": {
+    "phone": "(518) 586-1454",
+    "servicePhone": "800552549"
+  },
+  "birthday": "1979-02-04T11:23:04.211Z",
+  "ip": "16.13.132.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Pa unra tuaveifo um wuha ebe za vaej dehovo mepapa aj kunlo bos buki imoraf. Tavze surug papgob woprap ez gu kolim ke olepeg fezse his zecejen jo. Tugsi ena poawija leirlut hu zeeb du nozijo dijubo sorsotum ukvaze zotwueku dod hori peneun nol.",
+    "bio": "Gu widmorik kunotke toctifwo opabordog fu vudosejo ciza potampan himdipu comurbe vogof. Im fe joosu fufuz majla disi un lolaja azatoz jaradzig boc noplel co ima asten ci. Elici wivo rarer razzudeb demnavruw bas zepedde vor li gikiw vidukli ihupuhte cu ki inuhi. Ipojimles sitimbes ashe elnat wojni jogega olofas zin sa loj kuz je hevpef itza ufgewuj beh wuke. Omkarit luvuzivu gasofbe gurojabi tu sacaci oshejo pillerar uhpi cizfi otcim muw cakmes."
+  },
+  "apiKey": "15e2b2f4e2ae0e98b3b102a2deebd81cccc3b59445172de6fd642fc2b19d3023",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
