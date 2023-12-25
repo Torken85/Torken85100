@@ -1,0 +1,26 @@
+{
+  "name": "Ada Roy",
+  "age": 54,
+  "address": {
+    "street": "Suhbe Loop",
+    "city": "Sajfolovi",
+    "state": "NH",
+    "zip": "66668"
+  },
+  "contact": {
+    "phone": "(419) 770-6130",
+    "servicePhone": "800919837"
+  },
+  "birthday": "2005-06-20T06:45:19.313Z",
+  "ip": "163.202.8.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruk tusofde babizwe dahiv malziuf on zopaj ja ni zav teh nu nez zebsenomu tefuha dulo cogzicpis dewpiw. Opvahu tez re anevegje tin rodak felawig louzu kafevinu viri fo ul vokzoujo ojdaw. Zaku ved jemneid gek mebre foc fowegi fo fu zibligwi tejta owat duj loz mudid vip.",
+    "bio": "Ho pefufdo zuzok huuk ruote bucide puiv hivguw apiufidu oraaka du caraepe ica vemejfes gidosi uwi lofsabube ca. Zuroni wighahuk wothagi nirkisref piz ju efuso tusumu fik lup cifavaho mal jengaza jurgit umaguviw. Hommir junakep pes ruhevov vubo ilepu zipfilal gi ifaca haw anapubmi ojamazi vez jag fiti dogaap. Li lulhoih vomje zacag zezijmis mef fod pumi zikufamuk nuobu suhoba bugossub pacgicmi im use vivin locdof pesupmuc."
+  },
+  "apiKey": "1683f04aea9b6484c2293875aab32a6a804521883ffed091aeeb20d46adcdd16",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
