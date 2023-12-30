@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Ross",
+  "age": 23,
+  "address": {
+    "street": "Hussi Trail",
+    "city": "Tuhminjur",
+    "state": "AR",
+    "zip": "44426"
+  },
+  "contact": {
+    "phone": "(523) 606-7191",
+    "servicePhone": "800763393"
+  },
+  "birthday": "1984-10-09T14:48:25.723Z",
+  "ip": "120.81.10.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Awege udu ap pejfuwku gocvaepe da cup migabpi uwiviima ho ruwki ohuez gijfunlat sakaec inomu. Linlaun kageuka mak motamu ofi henug buwvaba jefsi ijeunok pe iwmojava sukolih zoj ivuonotu sighuam dirifu genraowu ehhoj. Nawlop fovsoztob uwdoscu ijwi zo ruopap uddik ewguk tolrit el zone ihima ki. Giwoh kal bodid aw pah puhoj de coz pi fiapero be fefecon pa ladzejuh. Pu anvu am zo ovmi subip op leev saji tenajcu ur luafibiw otiolzi hocu. Oteupavi uhi gesahta dinamrec gof kulbo fukwisor iteli wuw dofbudsu lu zila za larcinrod otujed senola. Ges difas waj giztehta tirovub heglak ze heze lemera jemhaw mub jufasfot mo lakeha wos.",
+    "bio": "Nit acouro kivmoz er bewonev wa di escej has faukvun etej ipibid dubbej fubaz lapde dovelu. Jemid geksabtuc ninkuk datgocu owimha faula fohho enuco zulzukoz kimeas zanuhicu hicil wus. Rofegugo defvi cil jij vared dohgo we eveatogob uworiz zoka wocet uwfailo suv batuvne ushe. Ozjasri pa ba diete lodisje de ca jisza odo sipe wa wecavo vonroj. Nobo ni nahen joj fav igme ceruceelo rosagaabo filo rawew gormozrat fec avno ef vil. Hosa aka tafdoc givapas mebofuj ru cegjob savfiufu logi war ib ungan sul ami."
+  },
+  "apiKey": "89c419c940f9548155e0f686c32f4aacae1064167eb20755ce325e2c23b965f5",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
