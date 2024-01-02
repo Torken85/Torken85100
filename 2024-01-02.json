@@ -1,0 +1,26 @@
+{
+  "name": "Jeffrey Porter",
+  "age": 57,
+  "address": {
+    "street": "Usci Boulevard",
+    "city": "Guniime",
+    "state": "NH",
+    "zip": "50977"
+  },
+  "contact": {
+    "phone": "(449) 826-6066",
+    "servicePhone": "800577119"
+  },
+  "birthday": "1966-09-02T23:44:21.336Z",
+  "ip": "36.119.242.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Dudooz alu kujmeg ned zaj hufov eju mehiga pi ufzaja povuf detcovno. Rameda giova diz zorpojlol kiwta ti vegveli lacgusol nideib renhaw kab ejaujoer futpem igcimcub. Za seb us haspo hakus micij cic razhe isu fomilus hewgom upramal fifnawed kajneuno lifub is pur ab. Kebijsem dog juffukuj avber jilem hadnol miggabjif eldaiv voskujiv varhe wukrajkok epeufide fo dirik sunir hezomuja bazebuga neacubi. Kibe luhelgu sike raihkib cog oneana hifeda cizwecug gunak zuwtikse agbe jafta hokaba cifzuruz nusdo igmucdat naf. Hig uvvuc holji rediv polnig riveznif eme di helfekgaw ceata vucerme ja pehwu huem.",
+    "bio": "Defacbi ewehoho zek ohico lif ibke jaidigab ige ra ojanoiho kize cuc rizdok do wifirof zel. Ap uhomafug reru zu lovoz jowaf focaog neute fesogo wup dotih jiokero. Ji usadke rug sesfad poviclem ofalize wado julfi ig jihifoza fo ojbelnoj."
+  },
+  "apiKey": "5db55f7c770f5f7ff3cf62233eaabaae539568aad79a96d871a42eb7c8180f81",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
