@@ -1,0 +1,26 @@
+{
+  "name": "Robert Sanders",
+  "age": 48,
+  "address": {
+    "street": "Amej Street",
+    "city": "Fiantot",
+    "state": "GA",
+    "zip": "87152"
+  },
+  "contact": {
+    "phone": "(488) 709-3642",
+    "servicePhone": "800681484"
+  },
+  "birthday": "2001-09-20T12:18:52.182Z",
+  "ip": "86.25.72.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Biconu vedsu eto todila camugu mev ki piiwmas hefkefcid gaghut abze riftasluf cipde ses noj garu memi. Toza aku sairapof co ukofadof uwmupjo bok bu ba eh ur goho iljo failwis sa dovmezuz lejacod okmutger. Nuwpig gormet telse gukal najde docu fibfa gewraino gesoke lijur zepa tiw tacejzel ewguk noh.",
+    "bio": "Bas awvoca wocow tirpomuf cohizim gadjerafo we hez zadokeaj felcol ronaczo azijad fajak pujmizes. Vog gajub ifigeh nusu konazva zapobtaw zuw oc fuzneuv haal wag erfu lul datzifaga tomizta ke. Cugkavsi upidih ke rubanuc gupek re dibam zala himuic zuriovo embu re."
+  },
+  "apiKey": "bb9d84ccdad237163f40d0d6540557102767f5767fb3490599f6d89f88d65d0f",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
