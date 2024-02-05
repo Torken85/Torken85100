@@ -1,0 +1,26 @@
+{
+  "name": "Isabella Cole",
+  "age": 24,
+  "address": {
+    "street": "Hosem View",
+    "city": "Cefvomfu",
+    "state": "AL",
+    "zip": "52021"
+  },
+  "contact": {
+    "phone": "(433) 533-6144",
+    "servicePhone": "800838615"
+  },
+  "birthday": "1968-12-15T19:52:22.518Z",
+  "ip": "157.23.154.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Wol vam foh bu par jo kuf gih ovubekwu riez me to cadinbe polja bi relenmu im. Go reba lih ekohij vavloz mobpe ifni nis kegpa nezciwzeh kaw sege coodujac. Cuhud wot vijihe erpu osupaki pabci macahi lamekainu eba afgiti jentuf se da ikra pejarez. Numwow awaic tuk joajeje butun jimep rokukra og gowe mapgabze gunfaset lemdi.",
+    "bio": "Jiila emru joaj urodi le olafokih zettid zojov ve fajdevsec emana vujaze ukigatgam vo akame vokpazmo. Curi dugetgi ru zereewi duj ponu we idujhaj izi rikcejzuc deb dedenu vam. Leb pughup lasparah bigcos roj tegiwefi gabliti purizis dodih fiwe va uma ba nucir zedci muwkin tek."
+  },
+  "apiKey": "bc81ca74396791af4ce2708030199996efbc09df7678eaaba2431efb8f0b4807",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
