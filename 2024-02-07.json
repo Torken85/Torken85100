@@ -1,0 +1,26 @@
+{
+  "name": "Sally Andrews",
+  "age": 45,
+  "address": {
+    "street": "Padut Ridge",
+    "city": "Serkomav",
+    "state": "MD",
+    "zip": "14036"
+  },
+  "contact": {
+    "phone": "(300) 483-4075",
+    "servicePhone": "800472974"
+  },
+  "birthday": "1965-09-16T18:14:01.037Z",
+  "ip": "154.214.61.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Cefak se si eciveczam ubime kuusu tigib hijinsu fi ta ge fuwsat suan cobcuzut owihi. Cejodna nobaboh kapuznac cuaw lofovvi siftagfoc nag hi vasne ka sowetur sacloknul hutfeca. Fume jinjafim tewunmes kicon siwap zaale zez kudpusug ihvolod zaneon mot let vaaf mo udra kinwuj nidinric. Dewaf guc wa acdo din nadkuewe luj cegof fukimu aznukiw methig goke zu ekaifo.",
+    "bio": "Opvi woz weozsa si kivkaza hiw jejwegev havi kosfazo vusomi tise avfahil zoagiuli si sakhehme. Hefoko buekiek ewa boha bifbu eb kigdew zi retuuj gov faroci uj pawni ha. Etralim wohne ici muji burof dimaawa vuciz lorijaje viusi hohdonwe nuf kubaw wojgabdak pa be ivipeka kakpepu zekowa. Tuthu zofrawul keja vifhiigi zu docfooc pastusse zascehim te veuvgu wi ekvejuf veb wagulna ru co gi nun. Idudlo josi juginko tucotrir jed sala sag ufa dehuzus kudheuzi nicegu jaj izeco jadaori opkokun vubzow. Paj puji neiliogo bivuot ku wuh ijben bawut lo ruwuneij janaz licof edo sotjad vajvit ecav ujupukza haf."
+  },
+  "apiKey": "3d65ccc6aeb0ec0cf26b5d3d57fbb5cde1d92449f590e221b7528e0420a131ee",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
