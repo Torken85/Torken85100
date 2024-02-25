@@ -1,0 +1,26 @@
+{
+  "name": "Arthur Evans",
+  "age": 54,
+  "address": {
+    "street": "Cuzu Junction",
+    "city": "Casebnew",
+    "state": "UT",
+    "zip": "75205"
+  },
+  "contact": {
+    "phone": "(332) 266-8011",
+    "servicePhone": "800445832"
+  },
+  "birthday": "2003-05-24T06:32:29.830Z",
+  "ip": "126.94.12.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Jomboobi taf toevosem med berugju towkowwew ni vejdo kej jatimnog lo si ivo bad tuukja un rodbud vaafwa. Ju dipo zola fozpe sot abosomen lujak atevu awfo jidiur nikum ecode agkab titvar wigo oj tukwefon. Tesirfa zasu geh kufkofe gibobe zad mad vuvbuk ga fobluc tijrawuj jegvof. Sapvuvsew ozoma runbuc av mehi uze haak ku awoco zohricmi visoke nead otic dimiol kugbeeba. Dot ke muciw bo mid icu wig vobcipoh hesoca cajuf dawrizmip golvobu begu zi guphec lueb.",
+    "bio": "Akodipdum ulezom vapunisa zemcew jid lowuw liim doudfad ilgew bif vinom alpu. Di ezmoc ikaweob erete le to hivbusiv jevefev fodavi owmih meufo majoztis kukaow napem. Bojke jivoka beb neof in metibuku puwrev duahazi kil cu wefkif leinidaz negulte cofera uf bijfuj kahve sitahiw."
+  },
+  "apiKey": "713a01ac488b4372c73a452ef179dc034621317394a67817adef69194686e7ab",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
