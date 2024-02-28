@@ -1,0 +1,26 @@
+{
+  "name": "Stanley Hicks",
+  "age": 21,
+  "address": {
+    "street": "Cekdov Circle",
+    "city": "Jojesa",
+    "state": "IA",
+    "zip": "21509"
+  },
+  "contact": {
+    "phone": "(960) 462-3289",
+    "servicePhone": "800328318"
+  },
+  "birthday": "1988-09-08T23:17:57.969Z",
+  "ip": "195.220.236.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Rednako mog kegelu aleju aw tojzi ocaka ro ipmuz cu licene azajenva zemaje joputto. Cepobak paundu vesjivdu na jip okado putij utezokwe ro re wej re otohonri hinsa adrobmi wubbujco. Ivcen viermec ap vi gimputu gatuf sig ruezi azdo piub zub bo efo. Hilon lat oduzugavi ocoha dihnide vusale ji mofafi eh loj uvdavnat monnaor fa afic uvawaah.",
+    "bio": "Sehuzu fiug ila avziz bi to nowmatlu hajophu puw deam nicmu mih rovoklog nu bojioru. Rawef zikime tali sovo vunzuper evuora jedi co ekramti ze alo cun ejcas nultuh cotmir zahaom fikeca. Dogair mucaopi sivorocol ri kop haphedfec modzok atoumo ulu nafec gaz ruufo biuroeco. Tekoc jompor rijdah sepdojik caw lid tat sisuchud mov kujevgo oc mawfiha nad ekajuk. Icupu huhiken he rieduibe akeajkal jacagitam sileigu epajusheb kepu bevwupden lu radezowuz tunwaj ku iwizzab. Jiv cul meavu fugan egsekhu taewu ma mep futron ho gesdeun luje edi mafcuc nof pedbak kasta fen. Fiwvun uroasu lo fos riolziv ohiletfe lanodviv pof vut takpimfok leno pi fernanled do rob sila pufeju bosac."
+  },
+  "apiKey": "deda7bde1944654b74bc928a34c7995a665ee2e3a287545f073a5c8f1430b05e",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
