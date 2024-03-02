@@ -1,0 +1,26 @@
+{
+  "name": "Juan Benson",
+  "age": 29,
+  "address": {
+    "street": "Okteh Plaza",
+    "city": "Udaepejim",
+    "state": "MT",
+    "zip": "64840"
+  },
+  "contact": {
+    "phone": "(725) 770-6720",
+    "servicePhone": "800682689"
+  },
+  "birthday": "1997-02-11T16:17:55.225Z",
+  "ip": "33.56.22.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Puno iwuratgek luvnafej bis uhuemuid den ebgini cowfewho lukdof zuoj voog fikuk fu afdekag. Ufo zijukaez virsid wainav nuhze vukdih benuwsi nepicsa sa wadtola se wikfe cos susizat voumu epi. Wi mupesfar duved difpo ajeojir ozuti ejitivsa datoju ebmil kafo hu je okuru uga vecvaozi seadu.",
+    "bio": "Asavesuf du duzkalfe pu dohaaj caufu vonetik ga lido pahta zezasice hehol birrud vek fe zu mugom rifo. Heho haranwa vajjib sumnu fabser rakpeku sus zoseil necto so fo murezape bibaruj pubziwper. Iverupud da gut upiobo akera sedi dulri fi hurnub wa nirlo ut kemdesap wiz ac. Zavejoz tug jave bozdur odimano danaw ru en zamo rov fezlen atzicice hor dih hewevdo jerfe. Ni couho duhnid zik nifju encoad kohaluk let mulhifalu viw ti tar. It pom ji bunfo sibuav dedmi rair muhis kecoce toros rakbu bir mo jokjawiw favusa. Wokje kavfoaf uho azeewa pofrafop ob hoavusi agbumdo feg muzubci me vof imliz urafa jolka."
+  },
+  "apiKey": "dc7630fb93ddec6359c042fcde1fd39e230995ff75e328c5539a2473e68b2796",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
