@@ -1,0 +1,26 @@
+{
+  "name": "Alan Griffin",
+  "age": 64,
+  "address": {
+    "street": "Vogi Key",
+    "city": "Nivuvilah",
+    "state": "IL",
+    "zip": "65495"
+  },
+  "contact": {
+    "phone": "(728) 763-4294",
+    "servicePhone": "800911698"
+  },
+  "birthday": "1996-02-13T20:01:16.839Z",
+  "ip": "203.107.69.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Ud zeven do wiofo zocib sufleuf siupe eb ow zasfooc awbegdi zalugwih lelej asug turokow geapijeb ciz selkegse. Joducdo ran gole larlumgok dojjebij ci awfasgeg levbej na gep vihigu defiz dewar suvoh ercuvge medo. Enujiha vawfi owaadvu bojozfot ju wif tidrare dimala iziudeku no sizejju he uw ocireh ipofok mozlevtog zavok ezutof.",
+    "bio": "Supowesi detojo him jasfo niro uz la cuf jinvi hekesit wiv zosugve gamomjo jogafohuk gekoege tevihu zicop. Luiwofa kum awvawja dijivpuz muubuvi bospegid duf lig ofaec av zajoc cu ojti wa aw. Ar oso cug botidha tar hokov ow ge linafos ha vihi liwsepo."
+  },
+  "apiKey": "5c93a28a5cdf3a255901f30c988f776faa2750913bb899f55a11bb6c5572c821",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
