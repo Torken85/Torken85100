@@ -1,0 +1,26 @@
+{
+  "name": "Luis Lindsey",
+  "age": 46,
+  "address": {
+    "street": "Largat Boulevard",
+    "city": "Dogovik",
+    "state": "NJ",
+    "zip": "92076"
+  },
+  "contact": {
+    "phone": "(409) 917-6494",
+    "servicePhone": "800225224"
+  },
+  "birthday": "1996-01-25T10:18:51.523Z",
+  "ip": "225.149.118.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Etaracjoj te fifu odahici pedgu towa avku pam epa ho otad sicgi hu odu kufna hurerhim fuhuv. Towu tuj ego luc dohfoajo esuezero godniru catop lakin kevrip devi kocte naasowu vowgegufe avi cebvuh. Modut in suvupnew utapisob hu jazkiv sivej tewuz iwavop nu re torar.",
+    "bio": "Wiwewbiw zerju pop kotufri veg waoba zuziwbo adre hefa ukedil lagjabrud datkuici nat iraudeufu sun ro va. Vos haadado hi os ta utanar ecinej uvatojo tijun coza ozcovsa dug jig hetehah su dilpum su. Sahwet obuif ordi coz raupzu fo meniine jeketa puif denupip ga emi mobma abnubuje vuiwaju puvo etoleno oj."
+  },
+  "apiKey": "6e753b4f03ef390a04679a3d1220e6bf4cbba0fd0bf307cdef0521a2a069b825",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}
