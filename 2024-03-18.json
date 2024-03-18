@@ -1,0 +1,26 @@
+{
+  "name": "Scott Peterson",
+  "age": 36,
+  "address": {
+    "street": "Lodta Center",
+    "city": "Comlibo",
+    "state": "NH",
+    "zip": "74809"
+  },
+  "contact": {
+    "phone": "(961) 548-5479",
+    "servicePhone": "800342825"
+  },
+  "birthday": "1986-04-02T23:19:37.151Z",
+  "ip": "32.222.202.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Zuc gov bombiez ne hilko ijirieh uzorunab lujsujaj lignek tu kizaj ha od dita gipedow. Te oto eheun mi uvozu galo kop uni kucvul mapit egevuv nizeh liloh. Rusav biimtos dem tihpulup mali wavputko aw amiuc te gez og ezsatud. Purlot tezder ozsotun ojo daw imhig usu bonbabu om zacuf gucsomwop howpu atuta niow vi vefablaz.",
+    "bio": "Pupihi kedi sofaw ni pimsozga foblid ag zuezu paom fu tera li ogis gapeva teje poh baka. Apzesu karufiril butdara suktarege gajhik ja gahzi tucdu ca savadude ihofocuj evahedesi tum tonun ro. Mevtas cowon umruswur donfega oruhiac utawif rewija fu guavi taisu mitnot mukce mo kabu."
+  },
+  "apiKey": "d0ee08281694a6c6b19b136bbd676682e36e192c220babd05c7ef571318a38c0",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
