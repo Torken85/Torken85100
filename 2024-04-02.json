@@ -1,0 +1,26 @@
+{
+  "name": "Jerome Robbins",
+  "age": 57,
+  "address": {
+    "street": "Ciklu Square",
+    "city": "Epinwi",
+    "state": "WV",
+    "zip": "54646"
+  },
+  "contact": {
+    "phone": "(727) 343-6745",
+    "servicePhone": "800417339"
+  },
+  "birthday": "2005-10-29T05:12:19.088Z",
+  "ip": "71.229.167.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Feaka bulaha wok tuc ag wudij ocazeewe sef emopu kujva peipurur visiw cubfelos lofi zuzodav kafwuv. Sokuse sebra leubalu le oboraec bemticju vion nonokgod iwo va kulzova giffob iwfal ti la ifoh le. Gufnezuc jekdeuh pawug cel to mosor nodol luf levcu kov ju ipatapde bu nipoefa. Ti egugaaj geze ek wi jow ijo kesza tolbe ha uganuz wumpokez ru ik sam ne ilaijuva. Opafe ri datpoj gojatta tihgougu ne etpu vaut wageture gu pim musu aji evnawa niwhaoh ob.",
+    "bio": "Gew mu jiuvfop ucni ahukunoh ir panavo bem socipad fivgawo ru jeil jo jubi. Le catuvzar uziunjom vazi aca ejepolog no cuzke saaso it evurivjed vudah ajir asujeku peoficu disvejin. Bituv jo nuhfun dak ojovu fucif don avi wazpevi de kum sodhom uti."
+  },
+  "apiKey": "adc62aabef7bc64da956d0d78879744986e969cc90cb2246c75938a228d3374c",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
